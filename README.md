@@ -23,4 +23,4 @@ Note: We used cross-validation to tune the parameters of classifiers
 
 ## Comparisons between different algorithms
 
-
+![6407_6331_6301_6171 pdf and 1 more page - Profile 1 - Microsoft​ Edge 6_25_2022 6_45_19 PM](https://user-images.githubusercontent.com/87400312/175783067-1f7ed2f4-3169-4079-8644-61102669240b.png)
